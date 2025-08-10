@@ -3,8 +3,8 @@
 Daily 10–30 minute coding exercises to build muscle memory in R and Python.
 
 ## Structure
-- `R/` – Odd-day tasks in R
-- `Python/` – Even-day tasks in Python
+- `R/` – Even-day tasks in R
+- `Python/` – Odd-day tasks in Python
 - `syntax-diary.md` – Side-by-side R ↔︎ Python snippets for quick reference
 
 ## Goals (Month 1)
