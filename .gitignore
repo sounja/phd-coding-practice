@@ -1,0 +1,20 @@
+
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+*.Rproj
+
+# General
+*.tmp
