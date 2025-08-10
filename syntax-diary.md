@@ -2,6 +2,6 @@
 
 A running log of commands and code snippets I use often in both R and Python, for quick reference and muscle memory building.
 
-| Task | R | Python |
-|------|---|--------|
-|      |   |        |
+| Task               | R                                       | Python |
+|--------------------|-----------------------------------------|--------|
+| Create data frame  | `data.frame(vector1, vector2,.....)`    |        |
