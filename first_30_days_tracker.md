@@ -6,7 +6,7 @@
 |     2 | Python     | Create a small DataFrame with `pandas`. Show first 5 rows (`head()`).             | [x]         |
 |     3 | R          | Filter rows using `dplyr::filter()` with 1–2 conditions.                          | [x]         |
 |     4 | Python     | Filter in pandas using `.loc[]`                                                   | [x]         |
-|     5 | R          | Select specific columns with `dplyr::select()`.                                   | [ ]         |
+|     5 | R          | Select specific columns with `dplyr::select()`.                                   | [x]         |
 |     6 | Python     | Filter in pandas using `.iloc[]`                                                  | [ ]         |
 |     7 | Both       | Write side-by-side syntax for filtering/selecting in R & Python.                  | [ ]         |
 |     8 | R          | Summarize with `summarise()` and `group_by()`.                                    | [ ]         |
