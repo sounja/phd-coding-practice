@@ -7,7 +7,7 @@
 |     3 | R          | Filter rows using `dplyr::filter()` with 1–2 conditions.                          | [x]         |
 |     4 | Python     | Filter in pandas using `.loc[]`                                                   | [x]         |
 |     5 | R          | Select specific columns with `dplyr::select()`.                                   | [x]         |
-|     6 | Python     | Filter in pandas using `.iloc[]`                                                  | [ ]         |
+|     6 | Python     | Filter in pandas using `.iloc[]`                                                  | [x]         |
 |     7 | Both       | Write side-by-side syntax for filtering/selecting in R & Python.                  | [ ]         |
 |     8 | R          | Summarize with `summarise()` and `group_by()`.                                    | [ ]         |
 |     9 | Python     | Summarize with `groupby()` and `.agg()`.                                          | [ ]         |
